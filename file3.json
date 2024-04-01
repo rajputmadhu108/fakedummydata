@@ -1,1 +1,14 @@
-
+{
+  "data": [
+    {
+      "title": "Banner 1",
+      "imageMobile": "https://laz-img-cdn.alicdn.com/images/ims-web/TB1LLFTsljTBKNjSZFuXXb0HFXa.jpg_1200x1200.jpg",
+      "imageDesktop": "https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/1.1.jpg"
+    },
+    {
+      "title": "Banner 2",
+      "imageMobile": "https://laz-img-cdn.alicdn.com/images/ims-web/TB1LLFTsljTBKNjSZFuXXb0HFXa.jpg_1200x1200.jpg",
+      "imageDesktop": "https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/1.2.jpg"
+    } 
+  ]
+}
