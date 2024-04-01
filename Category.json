@@ -1,1 +1,14 @@
-
+{
+  "data": [
+    {
+      "title": "Saree",
+      "link": "/",
+      "ProductImage": "https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/shawl1.jpg"
+    },
+    {
+      "title": "Shawl",
+      "link": "/",
+      "ProductImage": "https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/shawl1.jpg"
+    } 
+  ]
+}
