@@ -1,1 +1,48 @@
-
+{
+  "data": [
+    {
+      "id":"1",
+      "newLabel":"abc",
+      "sale":"1",
+      "price":"800",
+      "discount":"1200",
+      "stock":"1",
+      "images":"https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/1.jpg",
+      "layout":"",
+      "title": "Saree" 
+    },
+    {
+      "id":"2",
+      "newLabel":"abc",
+      "sale":"1",
+      "price":"2600",
+      "discount":"3000",
+      "stock":"1",
+      "images":"https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/7.png",
+      "layout":"",
+      "title": "Saree"
+    },
+    {
+      "id":"3",
+      "newLabel":"abc",
+      "sale":"1",
+      "price":"1700",
+      "discount":"3500",
+      "stock":"1",
+      "images":"https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/8.jpg",
+      "layout":"",
+      "title": "Saree"
+    },
+    {
+      "id":"4",
+      "newLabel":"abc",
+      "sale":"1",
+      "price":"2100",
+      "discount":"2900",
+      "stock":"1",
+      "images":"https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/9.jpg",
+      "layout":"",
+      "title": "Saree"
+    } 
+  ]
+}
