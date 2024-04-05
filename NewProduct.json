@@ -1530,7 +1530,7 @@
             "image_id": 16711,
             "id": "167.1",
             "alt": "foundation",
-            "src": "beauty/pro/1.jpg",
+            "src": "https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/1.jpg",
             "__typename": "ImageType"
           },
           {
