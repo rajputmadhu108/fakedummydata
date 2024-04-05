@@ -1424,7 +1424,7 @@
       },
       {
         "id": 150,
-        "title": "banana",
+        "title": "https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/1.jpg",
         "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
         "type": "vegetables",
         "brand": "fruits",
@@ -1449,7 +1449,7 @@
             "image_id": 15011,
             "id": "150",
             "alt": "fruits",
-            "src": "vegetables/pro/13.jpg",
+            "src": "https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/1.jpg",
             "__typename": "ImageType"
           }
         ],
@@ -1490,7 +1490,7 @@
             "image_id": 15111,
             "id": "151.1",
             "alt": "saddlebrown",
-            "src": "furniture/product/1.jpg",
+            "src": https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/1.jpg,
             "__typename": "ImageType"
           },
           {
