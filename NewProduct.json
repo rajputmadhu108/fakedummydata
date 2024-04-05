@@ -211,7 +211,7 @@
                         "image_id": 4311,
                         "id": "43.1",
                         "alt": "brown",
-                        "src": "pro/1.jpg",
+                        "src": "https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/10.jpg",
                         "__typename": "ImageType"
                     },
                     {
@@ -259,7 +259,7 @@
                         "image_id": 611,
                         "id": "61.1",
                         "alt": "black",
-                        "src": "pro1/1.jpg",
+                        "src": "https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/9.jpg",
                         "__typename": "ImageType"
                     },
                     {
