@@ -3,12 +3,12 @@
         "collection": [
             {
                 "id": 1,
-                "title": "trim dress",
+                "title": "Noise Buds",
                 "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
                 "type": "fashion",
                 "brand": "nike",
                 "category": "Women",
-                "price": 145,
+                "price": 30,
                 "new": true,
                 "sale": true,
                 "discount": 40,
