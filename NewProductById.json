@@ -1,0 +1,64 @@
+{
+    "data": {
+        "product": {
+            "id": 19,
+            "title": "Saree",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+            "type": "fashion",
+            "brand": "max",
+            "category": "Women",
+            "price": 210,
+            "new": true,
+            "sale": false,
+            "discount": 40,
+            "stock": 10,
+            "variants": [
+                {
+                    "id": "19.1",
+                    "sku": "sku19",
+                    "size": "s",
+                    "color": "blue",
+                    "image_id": 1911,
+                    "__typename": "VariantType"
+                },
+                {
+                    "id": "19.2",
+                    "sku": "skul19",
+                    "size": "s",
+                    "color": "gray",
+                    "image_id": 1912,
+                    "__typename": "VariantType"
+                },
+                {
+                    "id": "19.3",
+                    "sku": "sku19l",
+                    "size": "m",
+                    "color": "blue",
+                    "image_id": 1911,
+                    "__typename": "VariantType"
+                },
+                {
+                    "id": "19.4",
+                    "sku": "sku19l",
+                    "size": "m",
+                    "color": "gray",
+                    "image_id": 1912,
+                    "__typename": "VariantType"
+                }
+            ],
+            "images": [
+                {
+                    "alt": "blue",
+                    "src": "https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/1.jpg",
+                    "__typename": "ImageType"
+                },
+                {
+                    "alt": "gray",
+                    "src": "https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/2.jpg",
+                    "__typename": "ImageType"
+                }
+            ],
+            "__typename": "Product"
+        }
+    }
+}
