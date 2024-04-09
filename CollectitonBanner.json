@@ -1,20 +1,20 @@
 [
   {
-    img: "./images/beauty/1.jpg",
+    img: "https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/1.jpg",
     title: "women",
     subTitle: "fashion",
     category: "FASHION",
     btn: "shop now",
   },
   {
-    img: "./images/beauty/1.jpg",
+    img: "https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/2.jpg",
     title: "camera",
     subTitle: "Handloom Saree",
     category: "Saree",
     btn: "shop now",
   },
   {
-    img: "./images/beauty/1.jpg",
+    img: "https://raw.githubusercontent.com/rajputmadhu108/fakedummydata/main/7.jpg",
     title: "refrigerator",
     subTitle: "Handmade Shawl",
     category: "Shawl",
